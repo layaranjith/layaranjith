@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="400" width="2000">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -5,7 +6,6 @@
   </a>
 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="500">
 
 ## ⚡ About me 🙂
 ```ruby
