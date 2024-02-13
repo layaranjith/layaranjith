@@ -7,9 +7,36 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## ⚡ About me 
+```ruby
+ class about_me < Person
+   def initialize
+     @name = 'Layaranjith'
+     @age = 21
+     @Intership = 'Codsoft'
+     @education = 'Sri Krishna College Of Engineering and Technology'
+     @hobbies = [ 'Hangout', 'Games', 'Numismatics','Traveling' ]
+     @entertainment = [ 'Movies', 'Webseries', 'Friends',]
+    
+   end
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="1000">
+   def current_location
+     'Coimbatore,TN,India'
+   end
 
+   def default_locations
+     'Trichy,TN,India'
+   end
+
+   def currently
+     {
+       year:['Second Year']
+       studying: [ 'Information Technology' ],
+       Community: [ 'AspireCoders' ],
+       designation: [ 'Co-founder' ]
+      }
+   end
+ end
+ ```
 ## ⚡ Technologies
 
 <div align="center">
