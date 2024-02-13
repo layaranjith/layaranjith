@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Layaranjith;Nice+to+meet+you!&center=true&colour=white&size=30">
@@ -8,7 +8,7 @@
 
 ## ⚡ About me 🙂
 ```ruby
- class about_me < Person
+ class about_me < person
    def initialize
      @name = 'Layaranjith'
      @age = 21
