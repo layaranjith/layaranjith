@@ -31,7 +31,7 @@
      {
        year:['Second Year']
        studying: [ 'Information Technology' ],
-       Community: [ 'AspireCoders' ],
+       community: [ 'AspireCoders' ],
        designation: [ 'Co-founder' ]
       }
    end
