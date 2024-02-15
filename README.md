@@ -1,11 +1,11 @@
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align= "center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+There!+👋;This+is+Layaranjith;Nice+to+meet+you!&center=true&size=30">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="250" width="2000">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FC6736&random=false&width=435&lines=Hello,+There!+👋;This+is+Layaranjith;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## ⚡ About me 🙂
 ```ruby
